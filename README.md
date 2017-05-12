@@ -1,21 +1,18 @@
-# Quadratic Equations Solver
+# Решение квадратных уравнений 
 
-[TODO. There will be project description]
 Данная программа вычисляет корни квадратного уравнения
-# How to Use
 
-Для использования необходимо использовать функцию get_roots(a,b,c)
+#  Как использовать 
+
+Для использования необходимо импортировать модуль в свою программу на python с помощью команды `import quadratic_equation`, после чего можно использовать функцию get_roots(a,b,c).
 Где a коэфициент при квадратном члене, b линейном, и c - константа.
 
-[TODO]
-
-
-# How to Launch Tests
-
+# Как тестировать 
+Для тестирование необходимо в вашем командном интерпретаторе запустить команду:
 ```bash
 python tests.py
 ```
 
-# Project Goals
+# Цели проекта 
 
-The code is written for educational purposes. Training course for web-developers - [DEVMAN.org](https://devman.org)
+Код написан в образовательных целях. Курс обучения для web разработчиков - [DEVMAN.org](https://devman.org)
